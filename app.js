@@ -11,7 +11,7 @@ function exibirTextoNaTabela(tag, texto) {
 
 function exibirMensagemInicial() {
   exibirTextoNaTabela("h1", "Jogo do número secreto");
-  exibirTextoNaTabela("p", "Escolha um número entre 1 a 3");
+  exibirTextoNaTabela("p", "Escolha um número entre 1 a 10");
 }
 exibirMensagemInicial();
 
